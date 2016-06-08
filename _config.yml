@@ -55,14 +55,6 @@ instagram:          webb.tj
 #xmpp:              username@server.com
 #hackernews:        username
 
-# Gems
-gems:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-timeago
-
 jekyll-mentions:
     base_url: https://webb.tj
 
