@@ -7,7 +7,7 @@ reading_time:       true
 words_per_minute:   200
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://webbtj.github.io/music-site
+url:                http://webb.tj
 
 # Jekyll
 permalink:          /:title/
@@ -56,7 +56,7 @@ instagram:          webb.tj
 #hackernews:        username
 
 jekyll-mentions:
-    base_url: http://webbtj.github.io/music-site
+    base_url: http://webb.tj
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
