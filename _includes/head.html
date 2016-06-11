@@ -21,19 +21,19 @@
     {% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if site.twitter %}<meta name="twitter:site" content="@{{ site.twitter }}">
     <meta name="twitter:creator" content="@{{ site.twitter }}">{% endif %}
-    {% if page.social_title}
+    {% if page.social_title %}
         <meta name="twitter:title" content="{{ page.social_title }}">
     {% else %}
         <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    {% end %}
+    {% endif %}
     <!-- Open Graph -->
     <meta property="og:locale" content="{{ site.locale }}">
     <meta property="og:type" content="article">
-    {% if page.social_title}
+    {% if page.social_title %}
         <meta property="og:title" content="{{ page.social_title }}">
     {% else %}
         <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    {% end %}
+    {% endif %}
     {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <meta property="og:site_name" content="{{ site.title }}">
