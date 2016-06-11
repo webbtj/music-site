@@ -14,8 +14,8 @@
     {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
-    {% if page.feature %}{% capture feature %}{{ page.feature }}{% endcapture %}{% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}{{ site.url }}/{{ feature }}{% endcapture %}{% endunless %}
-    <meta name="twitter:image" content="{{ feature }}">
+    {% if page.twitter_image %}{% capture twitter_image %}{{ page.twitter_image }}{% endcapture %}{% unless twitter_image contains 'http://' or twitter_image contains 'https://' %}{% capture twitter_image %}{{ site.url }}/{{ twitter_image }}{% endcapture %}{% endunless %}
+    <meta name="twitter:image" content="{{ twitter_image }}">
     {% else %}
     <meta name="twitter:image" content="{{ site.url }}/assets/img/social/twitter_card.png">{% endif %}
     {% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}

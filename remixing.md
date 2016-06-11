@@ -6,6 +6,7 @@ order: 4
 social_title: "TJ Webb - Works as a Remix Artist"
 seo_title: "TJ Webb - Process and successes as a remix artist"
 excerpt: "TJ's remixed for artists all over the world and has received recognition from the likes of Wes Borland and Marcy Playgound"
+twitter_image: "/assets/img/social/twitter_card_remixing.png"
 ---
 
 ### What is Remixing?
