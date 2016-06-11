@@ -3,6 +3,9 @@ layout: page
 title: Logic & Guns
 date: 2016-06-05
 order: 2
+social_title: "Logic & Guns by TJ Webb available now!"
+seo_title: "TJ Webb - Logic & Guns Available Now!"
+excerpt: "The new EP is now Spotify, iTunes, Bandcamp, Tidal, Amazon, Google Play and more. CD pre-orders available now for the August 12th release."
 ---
 
 ### Logic & Guns is HERE!!!

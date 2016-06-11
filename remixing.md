@@ -3,6 +3,9 @@ layout: page
 title: Remixing
 date: 2016-06-05
 order: 4
+social_title: "TJ Webb - Works as a Remix Artist"
+seo_title: "TJ Webb - Process and successes as a remix artist"
+excerpt: "TJ's remixed for artists all over the world and has received recognition from the likes of Wes Borland and Marcy Playgound"
 ---
 
 ### What is Remixing?
