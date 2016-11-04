@@ -5,14 +5,13 @@ date: 2016-06-05
 order: 2
 social_title: "Logic & Guns by TJ Webb available now!"
 seo_title: "TJ Webb - Logic & Guns Available Now!"
-excerpt: "The new EP is now Spotify, iTunes, Bandcamp, Tidal, Amazon, Google Play and more. CD pre-orders available now for the August 12th release."
+excerpt: "The new EP is now Spotify, iTunes, Bandcamp, Tidal, Amazon, Google Play and more. CD available now for."
 ---
 
 ### Logic & Guns is HERE!!!
-The New EP is available at the following digital outlets, the CD pre-order is
-available on [Bandcamp](https://tjwebb.bandcamp.com/album/logic-guns) as well,
-shipping out in August. Check back often and keep an eye on social media for
-more digital outlets!
+The New EP is available at the following digital outlets, the CD is
+available on [Bandcamp](https://tjwebb.bandcamp.com/album/logic-guns) as well as at all three Taz Records locations in the Halifax area. Check back often and keep an eye on social media for
+more!
 
 [Bandcamp](https://tjwebb.bandcamp.com/album/logic-guns)  
 [iTunes](https://itunes.apple.com/ca/album/logic-guns-ep/id1117241373)  
