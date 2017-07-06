@@ -10,7 +10,7 @@ excerpt: "The new EP is now Spotify, iTunes, Bandcamp, Tidal, Amazon, Google Pla
 
 ### Logic & Guns is HERE!!!
 The New EP is available at the following digital outlets, the CD is
-available on [Bandcamp](https://tjwebb.bandcamp.com/album/logic-guns) as well as at all three Taz Records locations in the Halifax area. Check back often and keep an eye on social media for
+available on [Bandcamp](https://tjwebb.bandcamp.com/album/logic-guns) as well as all three Taz Records locations in the Halifax area. Check back often and keep an eye on social media for
 more!
 
 [Bandcamp](https://tjwebb.bandcamp.com/album/logic-guns)  
