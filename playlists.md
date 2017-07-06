@@ -1,0 +1,25 @@
+---
+layout: page
+title: Playlists
+date: 2017-07-06
+order: 4
+---
+
+## The Summer of TJ Curated Playlists
+Every Thursday, all summer, 2017, as part of The Summer of TJ™ I'll be posting a
+fresh curated playlist straight from my finger tip to your ear bones. Check out
+the official announcement below.
+
+## Summer of TJ™ - Volume 1: Under The Influence (6th of July, 2017)
+Part of the Summer of TJ series 2017. Volume 1: Under The Influence.
+I wouldn't be who I am as an artist without any of these tracks. It's a mixed
+bag of nuts, but then again so am I. These tracks not only influence me
+musically but are some of my favourite get the f up jams. Keep up with the
+Summer of TJ™ on Twitter [@webbtj](http://twitter.com/webbtj) & at
+[Facebook.com/TJWebbMusic](http://facebook.com/TJWebbMusic)
+
+Listen on [Google Play Music](https://play.google.com/music/playlist/AMaBXylsG5y9dOikjLaqSKGJdx3gNL5qGcL-eRd0yKgMWmvBzp-_AerWFfoP5JrXJgf_RUOYMwJmGxu2Pk0FYqujdpi-fOkSTw%3D%3D) |
+[Spotify](https://open.spotify.com/user/webbtj/playlist/0LbnxB6RsDiTtqr4aY1DdA)
+
+## The Summer of TJ Ep. 2 - Curated Playlists
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zw670b0-tnQ" frameborder="0" allowfullscreen></iframe>

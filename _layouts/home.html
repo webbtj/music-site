@@ -16,19 +16,28 @@ layout: compress
     <header class="header flex" role="banner">
         <div class="container customFade-In">
             <div class="row">
-              <img src="{{ site.logo }}" class="home-logo">
-              <h1 class="title" style="font-weight:100; letter-spacing: 0.3rem; font-size:2.5rem;">
-                TJ Webb
-              </h1>
-              <img src="/assets/img/banner.png" alt="TJ Webb's New EP - Logic &amp; Guns Available Now!" />
-              <h3 style="margin:0">
-                Available Now
-              </h3>
-              {% include stores.html %}
-              {% include social-links.html %}
-            </div>
+                <img src="{{ site.logo }}" class="home-logo">
+                <h3 style="margin:0">
+                    The Summer of
+                </h3>
+                <h1 class="title" style="font-weight:100; letter-spacing: 0.3rem; font-size:2.5rem;">
+                    TJ Webb
+                </h1>
+
+                <a href="/summer">
+                    <img src="/assets/img/rerelease-banner.png" alt="The Summer of TJ™ Rereleases" />
+                </a>
+
+                <img src="/assets/img/banner.png" alt="TJ Webb's New EP - Logic &amp; Guns Available Now!" />
+                <h3 style="margin:0">
+                    Available Now
+                </h3>
+                {% include stores.html %}
+
+            {% include social-links.html %}
         </div>
-    </header>
-    {% include scripts.html %}
+    </div>
+</header>
+{% include scripts.html %}
 </body>
 </html>

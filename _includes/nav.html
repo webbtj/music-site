@@ -1,27 +1,27 @@
-	<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
-		<button class="dl-trigger">Open Menu</button>
-		<ul class="dl-menu">
-			{% assign pages = site.pages | sort: "order" %}
-			{% for page in pages %}
-				{% if page.order %}
-					{% if page.required_content %}
-						{% if site[page.required_content] and site[page.required_content].size > 0 %}
-							<li>
-								<a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a>
-							</li>
-						{% endif %}
-	        {% else %}
+<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
+	<button class="dl-trigger">Open Menu</button>
+	<ul class="dl-menu">
+		{% assign pages = site.pages | sort: "order" %}
+		{% for page in pages %}
+			{% if page.order %}
+				{% if page.required_content %}
+					{% if site[page.required_content] and site[page.required_content].size > 0 %}
+						<li>
+							<a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a>
+						</li>
+					{% endif %}
+				{% else %}
 					<li>
-		        <a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a>
+						<a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a>
 					</li>
-	        {% endif %}
 				{% endif %}
-      {% endfor %}
-			<li>
-				<a href="https://redtentacle.haulix.com/Media/View/36036" target="_blank">Press Kit</a>
-		  </li>
-			<li>
-		  	<a href="https://tjwebb.bandcamp.com/" target="_blank">Merch</a>
-			</li>
-		</ul><!-- /.dl-menu -->
-	</nav><!-- /.dl-menuwrapper -->
+			{% endif %}
+		{% endfor %}
+		<li>
+			<a href="https://redtentacle.haulix.com/Media/View/36036" target="_blank">Press Kit</a>
+		</li>
+		<li>
+			<a href="https://tjwebb.bandcamp.com/" target="_blank">Merch</a>
+		</li>
+	</ul><!-- /.dl-menu -->
+</nav><!-- /.dl-menuwrapper -->
