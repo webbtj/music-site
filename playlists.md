@@ -10,6 +10,16 @@ Every Thursday, all summer, 2017, as part of The Summer of TJ™ I'll be posting
 fresh curated playlist straight from my finger tip to your ear bones. Check out
 the official announcement below.
 
+## Summer of TJ™ - Volume 2: Do You Feel Lucky, Punk? (13th of July, 2017)
+Part of the Summer of TJ™ series 2017. Volume 2: Do You Feel Lucky, Punk? Well,
+do ya? This is basically my highschool survival kit. Ramones, NOFX, Misfits,
+Rancid, some of my favourite punk tunes. Keep up with the Summer of TJ™ on
+Twitter [@webbtj](http://twitter.com/webbtj) & at
+[Facebook.com/TJWebbMusic](http://facebook.com/TJWebbMusic)
+
+Listen on [Google Play Music](https://play.google.com/music/playlist/AMaBXyl76IaaRq1XMicNTvCRg2QtR38_CHJ22J7tKDGAWj-d8vR8wgsQfN5eOJOcYPX9GwSEfQoha930s0PS5BYqRrN9Vidvgg%3D%3D) |
+[Spotify](https://open.spotify.com/user/webbtj/playlist/7u23n2K8Y9qYeE5FxE2Wst)
+
 ## Summer of TJ™ - Volume 1: Under The Influence (6th of July, 2017)
 Part of the Summer of TJ series 2017. Volume 1: Under The Influence.
 I wouldn't be who I am as an artist without any of these tracks. It's a mixed
