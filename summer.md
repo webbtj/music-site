@@ -7,8 +7,8 @@ order: 2
 social_title: "TJ Webb - The Summer of TJ™"
 seo_title: "TJ Webb - The Summer of TJ™"
 excerpt: "Lots of special things going on all summer including AATWLWM albums finally making it to iTunes, Spotify and more; curated playlists and more surprises to come!"
-twitter_image: "assets/img/social/twitter_card_summer_tj.png"
-og_image: "assets/img/social/og_image_summer_tj.png"
+twitter_image: "assets/img/social/twitter_card_summer_of_tj.png"
+og_image: "assets/img/social/og_image_summer_of_tj.png"
 ---
 
 The Summer of TJ™ is in full swing following the first two announcements of a
