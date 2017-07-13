@@ -6,7 +6,7 @@ order: 4
 social_title: "TJ Webb - Summer of TJ™ Playlists"
 seo_title: "TJ Webb - Summer of TJ™ Playlists"
 excerpt: "Every Thursday, all summer, 2017, as part of The Summer of TJ™ I'll be posting a fresh curated playlist straight from my finger tip to your ear bones. Check out the official announcement."
-twitter_image: "assets/img/social/twitter_card_summer_of_tj.png?2"
+twitter_image: "assets/img/social/twitter_card_summer_of_tj.png?3"
 og_image: "assets/img/social/og_image_summer_of_tj.png"
 ---
 
