@@ -22,8 +22,8 @@ music is goooood. Like, damn good! Keep up with the Summer of TJ™ on Twitter
 [@webbtj](http://twitter.com/webbtj) & at
 [Facebook.com/TJWebbMusic](http://facebook.com/TJWebbMusic)
 
-Listen on [Google Play Music](https://play.google.com/music/playlist/AMaBXymXNkPDlMrWLC3jzpeg-FgkmI3zF8tuhs_J5vfJ6c-yzb0hXqQm5Z8h7vVWq_99UBDPJufpfATcupxp5mU1R5t1pNgFWQ%3D%3D) |
-[Spotify](https://open.spotify.com/user/webbtj/playlist/165mllFR4iXcMsCztb1VmO)
+Listen on [Google Play Music](https://goo.gl/DgHFt9) |
+[Spotify](https://goo.gl/cgnL7k)
 
 ## Summer of TJ™ - Volume 2: Do You Feel Lucky, Punk? (13th of July, 2017)
 Part of the Summer of TJ™ series 2017. Volume 2: Do You Feel Lucky, Punk? Well,
@@ -32,8 +32,8 @@ Rancid, some of my favourite punk tunes. Keep up with the Summer of TJ™ on
 Twitter [@webbtj](http://twitter.com/webbtj) & at
 [Facebook.com/TJWebbMusic](http://facebook.com/TJWebbMusic)
 
-Listen on [Google Play Music](https://play.google.com/music/playlist/AMaBXyl76IaaRq1XMicNTvCRg2QtR38_CHJ22J7tKDGAWj-d8vR8wgsQfN5eOJOcYPX9GwSEfQoha930s0PS5BYqRrN9Vidvgg%3D%3D) |
-[Spotify](https://open.spotify.com/user/webbtj/playlist/7u23n2K8Y9qYeE5FxE2Wst)
+Listen on [Google Play Music](https://goo.gl/v7ZAsV) |
+[Spotify](https://goo.gl/PUFpgB)
 
 ## Summer of TJ™ - Volume 1: Under The Influence (6th of July, 2017)
 Part of the Summer of TJ series 2017. Volume 1: Under The Influence.
@@ -43,8 +43,8 @@ musically but are some of my favourite get the f up jams. Keep up with the
 Summer of TJ™ on Twitter [@webbtj](http://twitter.com/webbtj) & at
 [Facebook.com/TJWebbMusic](http://facebook.com/TJWebbMusic)
 
-Listen on [Google Play Music](https://play.google.com/music/playlist/AMaBXylsG5y9dOikjLaqSKGJdx3gNL5qGcL-eRd0yKgMWmvBzp-_AerWFfoP5JrXJgf_RUOYMwJmGxu2Pk0FYqujdpi-fOkSTw%3D%3D) |
-[Spotify](https://open.spotify.com/user/webbtj/playlist/0LbnxB6RsDiTtqr4aY1DdA)
+Listen on [Google Play Music](https://goo.gl/vWgCep) |
+[Spotify](https://goo.gl/PR4XX5)
 
 ## The Summer of TJ Ep. 2 - Curated Playlists
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zw670b0-tnQ" frameborder="0" allowfullscreen></iframe>
