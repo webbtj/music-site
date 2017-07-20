@@ -15,6 +15,16 @@ Every Thursday, all summer, 2017, as part of The Summer of TJ™ I'll be posting
 fresh curated playlist straight from my finger tip to your ear bones. Check out
 the official announcement below.
 
+## Summer of TJ™ - Volume 3: Oh! Canada! (20th of July, 2017)
+Part of the Summer of TJ™ series 2017. Volume 3: Oh! Canada! What else do I need
+to say? The beer is stronger, the moose run rampant and the music, well the
+music is goooood. Like, damn good! Keep up with the Summer of TJ™ on Twitter
+[@webbtj](http://twitter.com/webbtj) & at
+[Facebook.com/TJWebbMusic](http://facebook.com/TJWebbMusic)
+
+Listen on [Google Play Music](https://play.google.com/music/playlist/AMaBXymXNkPDlMrWLC3jzpeg-FgkmI3zF8tuhs_J5vfJ6c-yzb0hXqQm5Z8h7vVWq_99UBDPJufpfATcupxp5mU1R5t1pNgFWQ%3D%3D) |
+[Spotify](https://open.spotify.com/user/webbtj/playlist/165mllFR4iXcMsCztb1VmO)
+
 ## Summer of TJ™ - Volume 2: Do You Feel Lucky, Punk? (13th of July, 2017)
 Part of the Summer of TJ™ series 2017. Volume 2: Do You Feel Lucky, Punk? Well,
 do ya? This is basically my highschool survival kit. Ramones, NOFX, Misfits,
