@@ -15,6 +15,30 @@ Every Thursday, all summer, 2017, as part of The Summer of TJ™ I'll be posting
 fresh curated playlist straight from my finger tip to your ear bones. Check out
 the official announcement below.
 
+## Summer of TJ™ - Volume 4a & 4b: Chris Cornell & Chester Bennington (27th of July, 2017)
+>Here at the Summer of TJ™ I like to have fun with music, and visuals and art.
+But sometimes it's not all fun and games and sometimes reality kicks you in the
+ass. I'd been planning a Chris Cornell playlist given that we lost him recently.
+In the wake of Chester Bennington's passing there were just too many reasons to
+cover both of these amazing voices.  <br><br>
+Their relationship is well documented, Chester sang Hallelujah at Chris'
+funeral, Chester passed away on Chris' birthday. These two were great friends
+and without a doubt two of the greatest rock voices I have ever heard. These
+are two of my favourite singers of all time, both taken from the world far, far
+too soon.
+
+Part of the Summer of TJ™ series 2017. Volumes 4a & 4b: Chris Cornell & Chester
+Bennington. I'd been planning a Chris Cornell list since we lost him earlier
+this year. After last week I decided to do two this week; Chris Cornell &
+Chester Bennington. Keep up with the Summer of TJ™ on Twitter
+[@webbtj](http://twitter.com/webbtj) & at
+[Facebook.com/TJWebbMusic](http://facebook.com/TJWebbMusic)
+
+Listen to Chris on [Google Play Music](https://goo.gl/as1Zfz) |
+[Spotify](https://goo.gl/uhSfM7)  
+Listen to Chester on [Google Play Music](https://goo.gl/1tYvC2) |
+[Spotify](https://goo.gl/D818As)
+
 ## Summer of TJ™ - Volume 3: Oh! Canada! (20th of July, 2017)
 Part of the Summer of TJ™ series 2017. Volume 3: Oh! Canada! What else do I need
 to say? The beer is stronger, the moose run rampant and the music, well the
