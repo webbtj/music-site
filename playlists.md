@@ -15,6 +15,25 @@ Every Thursday, all summer, 2017, as part of The Summer of TJ™ I'll be posting
 fresh curated playlist straight from my finger tip to your ear bones. Check out
 the official announcement below.
 
+## Summer of TJ™ - Volume 5: 5x5 pt.1
+Did it seem to you like the playlist series fell off a bit? Yeah between
+vacation and being sick I did fall behind a bit, but we're going to make up for
+it over the next couple of week today (Yeah, Tuesday, right?) is going to be the
+first in a five part mini-series, 5x5. 5x5 playlists will feature 5 tracks from
+5 different artists. The 5x5 series will roll out over the next week or so, part
+1 today, part 2 tomorrow, part 3 Thursday, part 4 next Tuesday and part 5 next
+Wednesday. There's also going to be something pretty big for next Thursday's
+regularly scheduled playlist.
+
+Part of the Summer of TJ™ series 2017. Volume 5: The 5x5 mini series, pt. 1.
+Featuring 5 tracks from 5 of my favourite artists. Today's list includes
+Nirvana, Black Sabbath, Wintersleep, JEFF The Brotherhood, and Neil Young. Keep
+up with the Summer of TJ™ on Twitter [@webbtj](http://twitter.com/webbtj) & at
+[Facebook.com/TJWebbMusic](http://facebook.com/TJWebbMusic)
+
+Listen on [Google Play Music](https://goo.gl/ajXsVG) |
+[Spotify](https://goo.gl/pz3Dk6)
+
 ## Summer of TJ™ - Volume 4a & 4b: Chris Cornell & Chester Bennington (27th of July, 2017)
 >Here at the Summer of TJ™ I like to have fun with music, and visuals and art.
 But sometimes it's not all fun and games and sometimes reality kicks you in the
