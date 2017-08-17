@@ -15,6 +15,20 @@ Every Thursday, all summer, 2017, as part of The Summer of TJ™ I'll be posting
 fresh curated playlist straight from my finger tip to your ear bones. Check out
 the official announcement below.
 
+## Summer of TJ™ - Volume 7: 5x5 pt.3 (17th of August, 2017)
+
+Part of the Summer of TJ™ series 2017. Volume 7: The 5x5 mini series, pt. 3.
+Featuring 5 tracks from 5 of my favourite artists. Today's list includes
+Stone Temple Pilots, Foo Fighters, The Tragically Hip, Joel Plaskett (with
+optional Emergency), and The Presidents of The United States of America. Keep
+up with the Summer of TJ™ on Twitter [@webbtj](http://twitter.com/webbtj) & at
+[Facebook.com/TJWebbMusic](http://facebook.com/TJWebbMusic)
+
+[More on the 5x5 series](/5x5)
+
+Listen on [Google Play Music](https://goo.gl/G7NKtU) |
+[Spotify](https://goo.gl/R6Utqd)
+
 ## Summer of TJ™ - Volume 6: 5x5 pt.2 (16th of August, 2017)
 
 Part of the Summer of TJ™ series 2017. Volume 6: The 5x5 mini series, pt. 2.
