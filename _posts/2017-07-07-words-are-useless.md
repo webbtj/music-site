@@ -14,8 +14,8 @@ og_image: assets/img/social/wau_facebook.png
 Today is the day, the first of four re-releases of the original And All That
 Were Left Were Monsters albums and EPs! Words Are Useless, the electronic,
 experimental, instrumental album originally released in 2013 is now available on
-on Spotify, iTunes, Amazon, Google Play Music, Bandcamp and basically every
-other streaming and digital music service out there.
+Spotify, iTunes, Amazon, Google Play Music, Bandcamp and basically every other
+streaming and digital music service out there.
 
 Words Are Useless available on  
 [Spotify](https://goo.gl/WBRneE)
