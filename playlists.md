@@ -15,6 +15,20 @@ Every Thursday, all summer, 2017, as part of The Summer of TJ™ I'll be posting
 fresh curated playlist straight from my finger tip to your ear bones. Check out
 the official announcement below.
 
+## Summer of TJ™ - Volume 8: 5x5 pt.4 (22nd of August, 2017)
+
+Part of the Summer of TJ™ series 2017. Volume 8: The 5x5 mini series, pt. 4.
+Featuring 5 tracks from 5 of my favourite artists. Today's list includes
+Beastie Boys, The White Stripes, Meat Puppets, Pearl Jam, and Rage Against The
+Machine. Keep up with the Summer of TJ™ on Twitter
+[@webbtj](http://twitter.com/webbtj) & at
+[Facebook.com/TJWebbMusic](http://facebook.com/TJWebbMusic)
+
+[More on the 5x5 series](/5x5)
+
+Listen on [Google Play Music](https://goo.gl/WtG1PG) |
+[Spotify](https://goo.gl/GDzTAq)
+
 ## Summer of TJ™ - Volume 7: 5x5 pt.3 (17th of August, 2017)
 
 Part of the Summer of TJ™ series 2017. Volume 7: The 5x5 mini series, pt. 3.
