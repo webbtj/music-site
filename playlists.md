@@ -15,6 +15,22 @@ Every Thursday, all summer, 2017, as part of The Summer of TJ™ I'll be posting
 fresh curated playlist straight from my finger tip to your ear bones. Check out
 the official announcement below.
 
+## Summer of TJ™ - Volume 10: HOME! A Nova Scotia Playlist (31st of August, 2017)
+
+Part of the Summer of TJ™ series 2017. Volume 10: HOME! A Nova Scotia Playlist.
+This is definitely my favourite list, my friends, my family, my community. These
+are 62 of the reasons I do what I do. Nova Scotia has a music community like no
+other. This list crosses all kinds of genres and features Orchid's Curse,
+Kilmore, Ben Caplan, Arsoniste, Bloody Diamonds, Carmen Townsend, Jessie Brown,
+Natalie Lynn, In-Flight Safety, Walrus, Wintersleep, The Town Heroes, Scientists
+of Sound, Joel Plaskett, Like A Motorcycle, The Stanfields, Big Deal, Christine
+Campbell, The Brood, Slowcoaster, Christina Martin and a TON more. Keep up with
+the Summer of TJ™ on Twitter [@webbtj](http://twitter.com/webbtj) & at
+[Facebook.com/TJWebbMusic](http://facebook.com/TJWebbMusic)
+
+Listen on [Google Play Music](https://goo.gl/nAuDBG) |
+[Spotify](https://goo.gl/51ipxA)
+
 ## Summer of TJ™ - Volume 9: 5x5 pt.9 (24th of August, 2017)
 
 Part of the Summer of TJ™ series 2017. Volume 9: The 5x5 mini series, pt. 5.
