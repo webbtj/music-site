@@ -10,9 +10,12 @@
       href="https://fonts.googleapis.com/css?family=Antic"
       rel="stylesheet"
     />
-    <title>TJ Webb | TJ Goes To Hell</title>
+    <title>TJ Webb | ...of the pig, first</title>
     <link rel="shortcut icon" type="image/png" href="/favicon.png" />
     <style>
+      strong {
+        text-decoration: underline;
+      }
       h1 {
         font-family: "Anton";
         text-align: center;
@@ -21,16 +24,15 @@
         margin-top: 0.5em;
       }
       h3 {
-        font-family: "Anton";
-        font-size: 2em;
-      }
-      h3 span {
-        font-family: "Antic", Arial, Helvetica, sans-serif;
-        font-size: 1rem;
-        font-weight: initial;
+        font-family: "Antic";
+        text-align: center;
+        font-weight: 100;
+        margin: 0;
       }
       body {
         font-family: "Antic", Arial, Helvetica, sans-serif;
+        margin: 0;
+        color: #000;
       }
 
       .container {
@@ -54,6 +56,15 @@
         color: #000;
         font-size: 1.5rem;
         letter-spacing: 0.1em;
+        font-weight: 100;
+      }
+
+      h3 a {
+        font-family: inherit;
+        font-weight: inherit;
+        color: inherit;
+        font-size: inherit;
+        letter-spacing: inherit;
       }
 
       .item {
@@ -62,57 +73,84 @@
         margin: 5em;
       }
 
-      .merch h3 {
-        text-align: center;
+      .item.item-full {
+        width: 100%;
+        margin-top: 0;
       }
 
-      .merch-mobile {
-        display: none;
-        visibility: hidden;
+      .wrap::before {
+        content: " ";
+        display: block;
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0.9;
+        background-image: url("/worms/bg.png");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        filter: blur(100px);
+      }
+      .wrap,
+      .wrap-content {
+        position: relative;
       }
 
-      .merch img {
-        max-width: 200px;
-      }
-
-      .merch {
-        text-align: center;
-      }
-
-      .album-banner {
-      }
-
-      .album-banner a {
-        text-decoration: none;
-        font-weight: 100;
-        font-size: 1em;
-        font-family: "Antic", Arial, Helvetica, sans-serif;
-        margin-top: 2rem;
+      .heading-wrapper {
         display: flex;
-        flex-direction: row-reverse;
+        flex-direction: column;
+        width: fit-content;
+        margin: auto;
+        margin-top: 3rem;
       }
 
-      .album-banner a span strong {
-        text-decoration: underline;
+      .heading-wrapper h1 {
+        width: fit-content;
+        margin: auto;
       }
 
-      .album-banner a span {
-        background-color: #e1addd;
-        padding: 2rem;
-        border-radius: 1rem 0 0 1rem;
-        display: inline-block;
-        line-height: 2rem;
+      .heading-wrapper p {
+        width: fit-content;
+        margin-left: auto;
+        margin-top: 0;
+        font-size: 1.2rem;
+        font-weight: bold;
+      }
+
+      .inline-link {
+        color: inherit;
+        font-size: inherit;
+        font-family: inherit;
+      }
+
+      .related {
+        display: flex;
+        flex-wrap: wrap;
+        row-gap: 1em;
+        column-gap: 1em;
+        justify-content: space-around;
+        margin-top: 1rem;
+      }
+
+      .related .item {
+        width: 23%;
+        margin: 0;
+      }
+
+      .related .item a {
+        font-family: inherit;
+        font-size: inherit;
+        letter-spacing: inherit;
+        color: inherit;
+        font-weight: inherit;
+      }
+
+      .related .item span {
+        font-size: 0.69rem;
+        display: block;
         width: 100%;
         text-align: center;
-      }
-
-      .album-banner a img {
-        max-height: 6rem;
-        border-radius: 0 1rem 1rem 0;
-      }
-
-      .album-banner.pig-1 a span {
-        background-color: #a5a5a5;
       }
 
       /* Extra small devices (phones, 600px and down) */
@@ -134,211 +172,181 @@
         .container.nav .item {
           margin: 0.5em;
         }
-
-        .merch-full {
-          display: none;
-          visibility: hidden;
-        }
-
-        .merch-mobile {
-          display: block;
-          visibility: visible;
-        }
       }
     </style>
   </head>
 
   <body>
-    <nav class="container nav">
-      <div class="item">
-        <a href="https://tjwebb.bandcamp.com/music">Discography</a>
-      </div>
-      <div class="item">
-        <a href="/merch">Merch</a>
-      </div>
-      <div class="item">
-        <a href="/turkeys">What Are Chickens...?</a>
-      </div>
-      <div class="item">
-        <a href="/press">Press</a>
-      </div>
-    </nav>
+    <div class="wrap">
+      <div class="wrap-content">
+        <nav class="container nav">
+          <div class="item">
+            <a href="/">Home</a>
+          </div>
+          <div class="item">
+            <a href="/merch">Merch</a>
+          </div>
+          <div class="item">
+            <a href="/discography">Discography</a>
+          </div>
+          <div class="item">
+            <a href="/press">Press</a>
+          </div>
+        </nav>
 
-    <div class="album-banner pig-1">
-      <a href="/pig-1">
-        <img src="/pig-1/album.png" />
-        <span>
-          another-nother new album?!?!?!
-          <strong>...of the pig, first</strong> available December 17th,
-          2021</span
-        >
-      </a>
-    </div>
+        <div class="heading-wrapper">
+          <img src="/worms/title.png" alt="WORMS BY: TJ WEBB" />
+        </div>
 
-    <div class="album-banner">
-      <a href="/etheris">
-        <img src="/etheris/album.png" />
-        <span>
-          another new album?!?!?! <strong>Et omne Ætheris;</strong> is available
-          now!</span
-        >
-      </a>
-    </div>
-
-    <h1>TJ WEBB - TJ Goes To Hell</h1>
-    <h3 style="text-align: center; margin: 0">
-      <a href="https://distrokid.com/hyperfollow/tjwebb/tj-goes-to-hell"
-        >buy/stream now</a
-      >
-    </h3>
-
-    <div class="container">
-      <div class="item item-1">
-        <p>
-          How’s that go? “Nothing is certain but death and taxes.” Bankers,
-          baristas, and beggars, man, we all gotta go sometime. And since worms
-          don’t discriminate, when our time comes all we have is our character,
-          our convictions, and our contributions. We are judged. We are rewarded
-          with Paradise or sentenced to an eternal damnation. How will you be
-          judged, dear Reader? Will you be rewarded or will you be sentenced?
-          Have you loved thy neighbour? Have you honoured thy mother and thy
-          father?
-          <br />
-          I’m sure you have, but if not, I’ll save you a seat. See, as for me…
-        </p>
-        <h3>TJ GOES TO HELL</h3>
-        <p>
-          TJ Webb returns with his second album of 2021, just in time for
-          Allhallows Eve, “TJ Goes To Hell”. From the artwork homage to
-          <strong>The Descendents</strong>’ 1982 classic “Milo Goes To College”,
-          to the covers of punk icons <strong>Misfits</strong> and Ramones,
-          dusting off twenty-year-old nuggets from his old high-school- and
-          college-era bands, to riffing on the TV theme for
-          <strong>Buffy The Vampire Slayer (Nerf Herder)</strong>; TJ’s shut off
-          the synths and whacky effects, picked up the guitars and returned to
-          his original, punk-based form.
-        </p>
-        <p>
-          A Halloween inspired ten track ripper clocking in at just under half
-          an hour, “TJ Goes To Hell” is fun for the whole family all year long,
-          assuming the family enjoys expressing the desire to kill loved ones
-          and associates alike (“Die, Die My Darling”, “The Killing Song”),
-          digging up the bones of lost loved ones (“Dig Up Her Bones”),
-          resurrecting the dead in both human and animal form (“Dead
-          Celebrities”, “Pet Sematary”), or hacking the heads off of little
-          girls (“Skulls”).
-        </p>
         <h3>
-          FOR FANS OF
-          <span
-            >(besides the obvious; <strong>Ramones</strong>,
-            <strong>Misfits</strong>, <strong>Nerf Herder</strong>):</span
+          everywhere april 2 |
+          <a href="https://distrokid.com/hyperfollow/tjwebb/of-the-pig-first"
+            >pre-save</a
           >
         </h3>
-        <p>
-          <strong>Danzig</strong>, <strong>Dead Kennedys</strong>,
-          <strong>NOFX</strong>, <strong>Social Distortion</strong>,
-          <strong>Rancid</strong>, ‘80s and ‘90s punk, pop-punk, horror-punk,
-          and early hardcore.
-        </p>
-        <h3>BIG FRIGGIN’ DISCLAIMER</h3>
-        <p>
-          Look, it’s Halloween and it’s all in good fun. These songs don’t
-          promote violence or anything evil any more than a Stephen King novel,
-          so chill. Pretty sure Danzig never killed anyone, nor did Michale
-          Graves dig up their bones… though, don’t get me started on that
-          whack-a-doodle.
-        </p>
-        <h3>TRACKLIST</h3>
-        <ol>
-          <li><strong>Go To Hell</strong> (original song)</li>
-          <li>
-            <strong>Buffy The Vampire Slayer Theme</strong> (originally recorded
-            by <strong class="heavy">Nerf Herder</strong>)
-          </li>
-          <li>
-            <strong>Dig Up Her Bones</strong> (originally recorded by
-            <strong class="heavy">The Misfits</strong>)
-          </li>
-          <li>
-            <strong>Screaming</strong> (original song, originally recorded by
-            The Three Little Pigs*)
-          </li>
-          <li>
-            <strong>Pet Sematary</strong> (originally recorded by
-            <strong class="heavy">Ramones</strong>)
-          </li>
-          <li>
-            <strong>Dead Celebrities</strong> (original song, originally
-            recorded by The Three Little Pigs*)
-          </li>
-          <li>
-            <strong>Die, Die My Darling</strong> (originally recorded by
-            <strong class="heavy">Misfits</strong>)
-          </li>
-          <li>
-            <strong>Roundabout</strong> (original song, originally recorded by
-            The Three Little Pigs*)
-          </li>
-          <li>
-            <strong>Skulls</strong> (originally recorded by
-            <strong class="heavy">Misfits</strong>)
-          </li>
-          <li>
-            <strong>The Killing Song</strong> (original song, originally
-            recorded by 3LP*)
-          </li>
-        </ol>
-        <p>
-          *TJ was a member of these bands and writer/co-writer of these songs.
-        </p>
-      </div>
 
-      <div class="item item-2">
-        <img src="/album.png" alt="TJ Webb - TJ Goes To Hell album cover" />
-        <div class="merch merch-full">
-          <h3>DOPE MERCH</h3>
-          <a href="/merch">
-            <img src="/merch/face-mask.jpg" alt="TJ Webb Merch preview image" />
-          </a>
+        <div class="container">
+          <div class="item">
+            <img src="/worms/album.png" alt="TJ Webb - Worms album cover" />
+          </div>
+          <div class="item">
+            <p>
+              TJ Webb is back with his first album of 2022, Worms. Worms is a
+              punk rock record, 9 loud songs (plus a couple of tame ones)
+              clocking in at 18 minutes from start to finish. The songs are
+              short, sometimes silly, stripped down, often silly, fast, and
+              mostly silly.
+            </p>
+            <p>
+              It's the <strong>Bloodhound Gang</strong> on the tea cups at
+              Disney.
+            </p>
+            <p>
+              It's <strong>Gary Busey</strong> at a table read of a
+              <strong>Seth MacFarlane</strong> script.
+            </p>
+            <p>It's <strong>blink-182</strong> cold cranking a chainsaw.</p>
+            <p>
+              It's the
+              <strong>Presidents of The United States of America</strong> meets
+              someone who should be speaking with a professional but is not
+              currently speaking with a professional.
+            </p>
+            <h3>Related Releases</h3>
+            <div class="related">
+              <div class="item">
+                <a
+                  href="https://distrokid.com/hyperfollow/tjwebb/everyone-but-you"
+                  target="_blank"
+                >
+                  <img
+                    src="/worms/everyone_but_you.png"
+                    alt="TJ Webb - Everyone But You single cover"
+                  />
+                  <span>
+                    Everyone But You [single] <br />
+                    4 March, 2022
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <a
+                  href="https://distrokid.com/hyperfollow/tjwebb/everyone-but-you-nighttime-remix"
+                  target="_blank"
+                >
+                  <img
+                    src="/worms/everyone_but_you_nighttime_remix.png"
+                    alt="TJ Webb - Everyone But You (Nighttime Remix) cover"
+                  />
+                  <span>
+                    Everyone But You (Nighttime Remix) <br />
+                    18 March, 2022
+                  </span>
+                </a>
+              </div>
+              <div class="item">
+                <img
+                  src="/worms/coming_soon.png"
+                  alt="TJ Webb - New music coming soon"
+                />
+                <span>
+                  ???? ??? ????????? [EP] <br />
+                  25 March, 2022
+                </span>
+              </div>
+              <div class="item">
+                <img
+                  src="/worms/coming_soon.png"
+                  alt="TJ Webb - New music coming soon"
+                />
+                <span>
+                  ??????? ??? ???? [EP] <br />
+                  1 April, 2022
+                </span>
+              </div>
+              <div class="item">
+                <img
+                  src="/worms/coming_soon.png"
+                  alt="TJ Webb - New music coming soon"
+                />
+                <span>
+                  ??? ???? [EP] <br />
+                  22 April, 2022
+                </span>
+              </div>
+              <div class="item">
+                <img
+                  src="/worms/coming_soon.png"
+                  alt="TJ Webb - New music coming soon"
+                />
+                <span>
+                  ???? ?? [EP] <br />
+                  6 May, 2022
+                </span>
+              </div>
+              <div class="item">
+                <img
+                  src="/worms/coming_soon.png"
+                  alt="TJ Webb - New music coming soon"
+                />
+                <span>
+                  ??????? ????? [Album] <br />
+                  3 June, 2022
+                </span>
+              </div>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
 
-    <div class="merch merch-mobile">
-      <h3>DOPE MERCH</h3>
-      <a href="/merch">
-        <img src="/merch/face-mask.jpg" alt="TJ Webb Merch preview image" />
-      </a>
-    </div>
-
-    <div class="container footer">
-      <div class="item">
-        <a href="https://tjwebb.bandcamp.com/">Bandcamp</a>
-      </div>
-      <div class="item">
-        <a href="https://www.instagram.com/webb.tj/">Instagram</a>
-      </div>
-      <div class="item">
-        <a href="https://www.facebook.com/TJWebbMusic/">Facebook</a>
-      </div>
-      <div class="item">
-        <a href="https://twitter.com/webbtj">Twitter</a>
-      </div>
-      <div class="item">
-        <a href="https://open.spotify.com/artist/2vTwnB91s8C8IEfrnCm7tb"
-          >Spotify</a
-        >
-      </div>
-      <div class="item">
-        <a href="https://music.apple.com/ca/artist/tj-webb/1094437105"
-          >Apple Music</a
-        >
-      </div>
-      <div class="item">
-        <a href="https://music.youtube.com/channel/UC_0JrJBjPf9IOmpNBAd8M_g"
-          >YouTube Music</a
-        >
+        <div class="container footer">
+          <div class="item">
+            <a href="https://tjwebb.bandcamp.com/">Bandcamp</a>
+          </div>
+          <div class="item">
+            <a href="https://www.instagram.com/webb.tj/">Instagram</a>
+          </div>
+          <div class="item">
+            <a href="https://www.facebook.com/TJWebbMusic/">Facebook</a>
+          </div>
+          <div class="item">
+            <a href="https://twitter.com/webbtj">Twitter</a>
+          </div>
+          <div class="item">
+            <a href="https://open.spotify.com/artist/2vTwnB91s8C8IEfrnCm7tb"
+              >Spotify</a
+            >
+          </div>
+          <div class="item">
+            <a href="https://music.apple.com/ca/artist/tj-webb/1094437105"
+              >Apple Music</a
+            >
+          </div>
+          <div class="item">
+            <a href="https://music.youtube.com/channel/UC_0JrJBjPf9IOmpNBAd8M_g"
+              >YouTube Music</a
+            >
+          </div>
+        </div>
       </div>
     </div>
   </body>

@@ -10,7 +10,7 @@
       href="https://fonts.googleapis.com/css?family=Antic"
       rel="stylesheet"
     />
-    <title>TJ Webb | Et omne Ætheris;</title>
+    <title>TJ Webb | ...of the pig, first</title>
     <link rel="shortcut icon" type="image/png" href="/favicon.png" />
     <style>
       h1 {
@@ -35,6 +35,7 @@
       .container {
         display: flex;
         flex-direction: row;
+        justify-content: space-around;
       }
 
       .item img {
@@ -65,9 +66,10 @@
       }
 
       .item {
-        width: 50%;
+        width: 16%;
         vertical-align: top;
         margin: 5em;
+        max-width: 25%;
       }
 
       .item.item-full {
@@ -84,7 +86,7 @@
         width: 100%;
         height: 100%;
         opacity: 0.9;
-        background-image: url("/etheris/album.png");
+        background-image: url("/pig-1/album.png");
         background-repeat: no-repeat;
         background-attachment: fixed;
         filter: blur(100px);
@@ -99,7 +101,7 @@
         flex-direction: column;
         width: fit-content;
         margin: auto;
-        margin-top: 3rem;
+        margin-top: 0;
       }
 
       .heading-wrapper h1 {
@@ -113,6 +115,12 @@
         margin-top: 0;
         font-size: 1.2rem;
         font-weight: bold;
+      }
+
+      .inline-link {
+        color: inherit;
+        font-size: inherit;
+        font-family: inherit;
       }
 
       /* Extra small devices (phones, 600px and down) */
@@ -157,29 +165,58 @@
         </nav>
 
         <div class="heading-wrapper">
-          <h1>Et omne Ætheris;</h1>
-          <p>by tj webb</p>
+          <h1>2022 Releases</h1>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <a href="/">
+              <img src="/thumbs/worms.png" alt="TJ Webb - Worms album cover" />
+            </a>
+          </div>
+        </div>
+
+        <div class="heading-wrapper">
+          <h1>2021 Releases</h1>
+        </div>
+
+        <div class="container">
+          <div class="item">
+            <a href="/pig-1">
+              <img
+                src="/thumbs/pig-1.png"
+                alt="TJ Webb - ...of the pig, first album cover"
+              />
+            </a>
+          </div>
+          <div class="item">
+            <a href="/etheris">
+              <img
+                src="/thumbs/etheris.png"
+                alt="TJ Webb - ...of the pig, first album cover"
+              />
+            </a>
+          </div>
+          <div class="item">
+            <a href="/hell">
+              <img src="/thumbs/hell.png" alt="TJ Webb - TJ Goes To Hell" />
+            </a>
+          </div>
+          <div class="item">
+            <a href="/turkeys">
+              <img
+                src="/thumbs/turkeys.jpg"
+                alt="TJ Webb - What Are Chickens If Not Mormon Turkeys?"
+              />
+            </a>
+          </div>
         </div>
 
         <h3>
-          Free on
-          <a href="https://tjwebb.bandcamp.com/album/et-omne-theris">
-            Bandcamp
-          </a>
-          &amp;
-          <a href="https://distrokid.com/hyperfollow/tjwebb/et-omne-theris-2">
-            All streaming platforms
+          <a href="https://tjwebb.bandcamp.com/">
+            View Full Discography on Bandcamp
           </a>
         </h3>
-
-        <div class="container">
-          <div class="item item-full">
-            <img
-              src="/etheris/album.png"
-              alt="TJ Webb - Et omne Ætheris; album cover"
-            />
-          </div>
-        </div>
 
         <div class="container footer">
           <div class="item">
